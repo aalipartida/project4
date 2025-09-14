@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+
+#container{
+    width: 900px;
+    height: 750px;
+    margin: 0 auto;
+    background-color: rgb(60, 50, 50);
+}
+
+body {
+    background: url(b&r.jpg)center;
+}
+header{
+    text-align: center; font-size: 50px; 
+    color:white;
+    background-color: black;
+    text-shadow: 4px 4px 5px red, 2px 2px 4px white;
+    outline-style: outset;
+    border-radius: 2px;
+    font-size: 50px;
+     font-family: "IM Fell French Canon SC", serif;
+    
+
+}
+h1{
+    text-align: auto 0;
+    background-color: whitesmoke;
+    text-shadow: 2px 2px 4px rgb(159, 14, 14);
+    outline-style: groove; 
+    outline-width: 5px;
+    border-radius: 2px;
+    font-size: 30px;
+     font-family: "IM Fell French Canon SC", serif;
+}
+#text{
+    width: 200px;
+    height: 330px;
+    margin-left: 20px;
+    background-color: brown;
+    padding: 20px;
+    outline-style: groove;
+    outline-width: 9px;
+    border-radius: 5px;
+    font-size: 16px;
+     font-family: "IM Fell French Canon SC", serif;
+}
+
+#img{
+    Width: 630px;
+    height: 400px;
+    float: right;
+    margin-right: 20px;
+    margin-top: -330px;
+    background-color: brown;
+    outline-style: groove;
+    outline-width: 9px;
+    border-radius: 5px;
+}
+.top{
+    padding: 20px
+}
+.bottom{
+   padding: 20px;
+
+}
+.right{
+    padding: 30px;
+   float:right;
+    margin-top:-350;
+}
+#source{
+    width: 870px;
+    height:150px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: brown;
+    outline-style: groove;
+    outline-width: 9px;
+    border-radius: 5px;
+    font-size: 20px;
+  font-family: "IM Fell French Canon SC", serif;
+  font-style: normal;
+}
+
+h2{
+    text-align: center;
+}
+a:link{
+    background-color: whitesmoke;
+    color:black
+}
+a:visited{
+    color:blueviolet
+}
+a:hover{
+    color:rgb(179, 32, 32)
+}
+a:active{
+    color:rgb(35, 35, 138)
+}
